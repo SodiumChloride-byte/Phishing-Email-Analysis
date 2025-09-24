@@ -1,0 +1,15 @@
+From: "Support" <no-reply@secure-alerts.xyz>
+To: victim@example.com
+Subject: Urgent: Verify your account immediately
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+
+Dear user,
+
+We detected suspicious activity on your account. Please verify your account immediately by visiting:
+http://192.0.2.1/login
+
+Failure to verify will result in your account being closed.
+
+Regards,
+Support Team
